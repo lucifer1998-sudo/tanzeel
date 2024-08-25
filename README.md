@@ -1,4 +1,4 @@
-# tanzeel
+# Hi there 👋
 
 I am Tanzeel Tariq. I've been working on web projects for 10+ years.
 
